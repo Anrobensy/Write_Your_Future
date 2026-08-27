@@ -1,0 +1,7 @@
+WRITE YOUR FUTURE V6
+
+Base : V5 Finale.
+Ajout unique : animation de tirage façon roulette pendant environ 2,4 secondes, avec défilement aléatoire, ralentissement progressif et dernier faux arrêt avant le résultat.
+L'animation fonctionne sur les tirages normaux, la Boulette Russe, les Jokers et le départage final.
+
+Mets les photos dans le dossier celebrites, ouvre index.html avec Chrome ou Edge, puis charge ce dossier dans la configuration.
